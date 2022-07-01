@@ -46,7 +46,7 @@
         
         
         <property name="java-output-path" value="/spring-demoweb/target/classes"/>
-        <property name="context-root" value="spring-demoweb-test"/>
+        <property name="context-root" value="demoweb"/>
                                                     
     
     
